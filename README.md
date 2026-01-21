@@ -2,7 +2,7 @@
 
 A modern, comprehensive web application for managing student records, attendance, and grades. Built with a focus on user experience, it features a premium "Glassmorphism" UI design, real-time data processing, and a secure backend.
 
-![Dashboard Preview](https://github.com/Manojs018/Student-Management-System/assets/placeholder-dashboard.png)
+![Dashboard Preview](file:///C:/Users/Manoj/OneDrive/Desktop/studentManagementSystem/student-record-system/frontend/index.html)
 *(Note: Replace with actual screenshot link)*
 
 ---
