@@ -69,4 +69,4 @@ Fully optimized for mobile devices.
 
 ## 🔗 Live Demo / Test
 *Currently, this project is designed to run locally.*
-**Project URL**: [https://github.com/Manojs018/Student-Management-System](https://github.com/Manojs018/Student-Management-System)
+**Project URL**: file:///C:/Users/Manoj/OneDrive/Desktop/studentManagementSystem/student-record-system/frontend/index.html
